@@ -79,7 +79,7 @@ A aplicação não possui validação de erro (ex: se o mínimo for maior que o 
 
 ## 🙋‍♀️ Autora
 
-**Brenda da Conceição Ramos**
+**Brenda da Conceição Ramos** <br>
 Desenvolvedora em formação — Front-End
 
 
