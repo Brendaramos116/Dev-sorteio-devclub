@@ -13,14 +13,14 @@ body {
 }
 
 .logo-foto {
-    margin: 40px 450px;
+    margin: 40px 30%;
 }
 
 label {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 5px 450px;
+    margin: 5px 35%;
     font-size: 32px;
 }
 
@@ -29,7 +29,7 @@ label {
     display: inline;
     width: 330px;
     height: 70px;
-    margin-left: 400px;
+    margin-left: 28%;
     padding: 30px 233px 30px 16px;
     color: #FFF;
     font-size: 30px;
@@ -59,7 +59,7 @@ button {
     width: 342px;
     height: 70px;
     padding: 0px 76px;
-    margin: 10px 580px 10px auto;
+    margin: 10px 40%;
     justify-content: center;
     align-items: center;
     border: none;
